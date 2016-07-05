@@ -25,8 +25,12 @@ func sayHelloToScratchy() {
 
 
 func sayHelloToCat(catName: String) {
+    
     print("Hello, \(catName), why do you sleep so much?")
 }
+//func sayHelloToCat(catName: String) {
+//    print("Hello, \(catName), why do you sleep so much?")
+//}
 
 sayHelloToCat("Mittens")
 
